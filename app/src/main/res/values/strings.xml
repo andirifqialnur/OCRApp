@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OCR App</string>
+    <string name="hello">Hello</string>
+    <string name="let_s_sign_you_up">Let\'s Sign You Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="continueee">Continue</string>
+    <string name="continue_to_scan_your_id_to_complete_the_registration">Continue to scan your ID to complete the registration</string>
+    <string name="you_re_almost_there">You\'re almost there...</string>
+    <string name="fill_out_the_form_below_or_scan_your_id_to_automatically_fill_the_form">Fill out the form below or scan your ID to automatically fill the form</string>
+    <string name="nik">NIK</string>
+    <string name="name">Name</string>
+    <string name="province">Province</string>
+    <string name="region">Region</string>
+    <string name="address">Address</string>
+    <string name="scan_you_re_id">Scan you\'re ID</string>
+    <string name="scan_your_id">Scan your ID</string>
+    <string name="automatcally_fill_the_form_after_scanning_your_id">Automatcally fill the form after scanning your ID</string>
+    <string name="we_re_happy_to_see_you">We\'re happy to see you</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="hello_capstone">Hello, Capstone</string>
+    <string name="you_just_signed_in">You just signed in</string>
+</resources>
